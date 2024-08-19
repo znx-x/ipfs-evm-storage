@@ -1,4 +1,11 @@
 // SPDX-License-Identifier: MIT
+
+/*  
+  Version: 1.0
+  Updated: 19 Aug 2024
+  Author: ZNX
+*/
+
 pragma solidity ^0.8.26;
 
 // Adds basic ownership functionality to the smart contract
