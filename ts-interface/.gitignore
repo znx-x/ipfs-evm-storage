@@ -1,0 +1,8 @@
+# Add here all files that should not be uploaded to
+# your CI repository
+
+# Dependency Folder
+/node_modules
+
+# Environment Variables
+.env
